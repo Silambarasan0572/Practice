@@ -4,4 +4,6 @@ so what now???
 
 can i help you...?
 
-modifie branch name..?
+change branch name..?
+
+how to check the pull and push working 
